@@ -1,0 +1,13 @@
+name: HardcoreWhitelist
+version: '1.1'
+main: de.foegro.hardcoreWhitelist.HardcoreWhitelist
+api-version: '1.21'
+
+commands:
+  revive:
+    description: "Revives a Player"
+    usage: "/revive [Player]"
+    permission: "HardcoreWhitelist.Revive"
+  immortal:
+    description: "Makes a Player able to respawn normally"
+    usage: "/immortal (Player)"

@@ -1,0 +1,5 @@
+de\foegro\hardcoreWhitelist\commands\ImmortalCommand.class
+de\foegro\hardcoreWhitelist\HardcoreWhitelist.class
+de\foegro\hardcoreWhitelist\listeners\JoinListener.class
+de\foegro\hardcoreWhitelist\commands\ReviveCommand.class
+de\foegro\hardcoreWhitelist\listeners\DeathListener.class
