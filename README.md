@@ -2,7 +2,7 @@ A simple plugin, that bans all players who die
 
 Commands:
 - revive:
-  - Unbanns a dead player
+  - Unbans a dead player
   - /revive [Player]
   - Permission: HardcoreWhitelist.Revive
 - immortal:
