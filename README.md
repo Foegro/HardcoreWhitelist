@@ -9,5 +9,5 @@ Commands:
   - Makes a player not get banned when dying
   - /immortal (Player)
   - Permission: HardcoreWhitelist.Immortal
-      - .Self
-      - .Others
+      - .Self -For making yourself immortal
+      - .Others -For making other players immortal
